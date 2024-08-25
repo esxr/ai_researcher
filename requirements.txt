@@ -1,0 +1,13 @@
+requests 
+langchain_community 
+asyncio
+apify_client
+bs4
+pymupdf
+langchain_openai
+langchain_fireworks
+langgraph 
+wikipedia 
+scikit-learn
+duckduckgo-search
+tavily-python
