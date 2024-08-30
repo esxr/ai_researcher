@@ -5,6 +5,9 @@
 In this notebook, I try to extend [the original notebook](https://langchain-ai.github.io/langgraph/tutorials/storm/storm/#construct-the-interview-graph) further in the following manner:
 - Using better prompt frameworks to device prompts.
 - Adding more (and better) sources than Wikipedia
+- Providing Human in the Loop options for:
+    - Editing the outline
+    - Providing relevant pdfs and other material
 - _(I'll keep updating this list as I work more on this...)_
 
 ---

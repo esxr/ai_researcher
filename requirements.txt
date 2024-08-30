@@ -9,5 +9,5 @@ langchain_fireworks
 langgraph 
 wikipedia 
 scikit-learn
-duckduckgo-search
+duckduckgo_search
 tavily-python
